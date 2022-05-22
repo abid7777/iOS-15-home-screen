@@ -1,2 +1,3 @@
-# iphone-15-home-screen
-Build iphone 15 home screen using Tailwind CSS
+# iOS 15 Homescreen using Tailwind CSS 
+
+ iOS 15 Homescreen using Tailwind CSS 

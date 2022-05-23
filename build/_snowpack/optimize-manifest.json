@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "/index.html": {
+      "entry": [],
+      "css": [
+        "/style.css"
+      ],
+      "js": []
+    }
+  },
+  "generated": {}
+}

@@ -1,0 +1,12 @@
+{
+  "devOptions": {
+    "tailwindConfig": "./tailwind.config.js"
+  },
+  "mount": {
+    "public": "/"
+  },
+  "plugins": [
+    ["@snowpack/plugin-optimize"],
+    ["@snowpack/plugin-postcss"]
+  ]
+}

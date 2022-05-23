@@ -1,0 +1,41 @@
+{
+  "name": "ios-15-homescreen",
+  "version": "1.0.0",
+  "description": "iOS 15 Homescreen using Tailwind CSS",
+  "main": "./build/index.html",
+  "scripts": {
+    "build": "snowpack build",
+    "dev": "snowpack dev",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abid7777/iOS-15-homescreen.git"
+  },
+  "keywords": [
+    "iOS",
+    "15",
+    "homescreen",
+    "tailwind"
+  ],
+  "author": "abid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abid7777/iOS-15-homescreen/issues"
+  },
+  "homepage": "https://github.com/abid7777/iOS-15-homescreen#readme",
+  "devDependencies": {
+    "@snowpack/plugin-optimize": "^0.2.13",
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.9",
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "postcss": "^8.4.14",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.11",
+    "snowpack": "^3.0.11",
+    "tailwindcss": "^3.0.24"
+  }
+}
